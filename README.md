@@ -2,12 +2,12 @@
 
 This is the simple version and just support download mp3 file on [oxfordlearnersdictionaries](https://www.oxfordlearnersdictionaries.com/)
 
-## Load extension:
+## Load extension
 
-Access chrome://extensions/
-Check Developer mode
-Click on Load unpacked extension
-Select project folder
+- Access chrome://extensions/
+- Check Developer mode
+- Click on Load unpacked extension
+- Select project folder
 
 ## Calls
 
