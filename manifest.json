@@ -1,0 +1,8 @@
+{
+  "name": "Medias download",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Medias download",
+  "permissions": ["declarativeContent", "activeTab", "downloads", "<all_urls>"],
+  "browser_action": { "default_popup": "popup.html" }
+}
